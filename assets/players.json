@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "nama": "Lionel Messi",
+      "klub": "Paris Saint-Germain",
+      "gambar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.antaranews.com%2Fberita%2F4033470%2Fscaloni-hanya-messi-dan-di-maria-yang-dijamin-ikut-copa-america-2024&psig=AOvVaw0-QRk1mPMoRRnxj0Qqi4kH&ust=1724840877567000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCdx6b7lIgDFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 2,
+      "nama": "Cristiano Ronaldo",
+      "klub": "Al Nassr",
+      "gambar": "https://via.placeholder.com/150?text=Ronaldo"
+    },
+    {
+      "id": 3,
+      "nama": "Kylian Mbappé",
+      "klub": "Paris Saint-Germain",
+      "gambar": "https://via.placeholder.com/150?text=Mbappe"
+    },
+    {
+      "id": 4,
+      "nama": "Neymar Jr",
+      "klub": "Al-Hilal",
+      "gambar": "https://via.placeholder.com/150?text=Neymar"
+    },
+    {
+      "id": 5,
+      "nama": "Robert Lewandowski",
+      "klub": "Barcelona",
+      "gambar": "https://via.placeholder.com/150?text=Lewandowski"
+    },
+    {
+      "id": 6,
+      "nama": "Mohamed Salah",
+      "klub": "Liverpool",
+      "gambar": "https://via.placeholder.com/150?text=Salah"
+    },
+    {
+      "id": 7,
+      "nama": "Virgil van Dijk",
+      "klub": "Liverpool",
+      "gambar": "https://via.placeholder.com/150?text=Van+Dijk"
+    },
+    {
+      "id": 8,
+      "nama": "Sergio Ramos",
+      "klub": "Al-Ittihad",
+      "gambar": "https://via.placeholder.com/150?text=Ramos"
+    },
+    {
+      "id": 9,
+      "nama": "Kevin De Bruyne",
+      "klub": "Manchester City",
+      "gambar": "https://via.placeholder.com/150?text=De+Bruyne"
+    },
+    {
+      "id": 10,
+      "nama": "Karim Benzema",
+      "klub": "Al-Ittihad",
+      "gambar": "https://via.placeholder.com/150?text=Benzema"
+    },
+    {
+      "id": 11,
+      "nama": "Erling Haaland",
+      "klub": "Manchester City",
+      "gambar": "https://via.placeholder.com/150?text=Haaland"
+    },
+    {
+      "id": 12,
+      "nama": "Paul Pogba",
+      "klub": "Juventus",
+      "gambar": "https://via.placeholder.com/150?text=Pogba"
+    },
+    {
+      "id": 13,
+      "nama": "Gareth Bale",
+      "klub": "Retired",
+      "gambar": "https://via.placeholder.com/150?text=Bale"
+    },
+    {
+      "id": 14,
+      "nama": "Luis Suárez",
+      "klub": "Gremio",
+      "gambar": "https://via.placeholder.com/150?text=Suarez"
+    },
+    {
+      "id": 15,
+      "nama": "Gerard Piqué",
+      "klub": "Retired",
+      "gambar": "https://via.placeholder.com/150?text=Pique"
+    },
+    {
+      "id": 16,
+      "nama": "Marc-André ter Stegen",
+      "klub": "Barcelona",
+      "gambar": "https://via.placeholder.com/150?text=Ter+Stegen"
+    },
+    {
+      "id": 17,
+      "nama": "Jan Oblak",
+      "klub": "Atletico Madrid",
+      "gambar": "https://via.placeholder.com/150?text=Oblak"
+    },
+    {
+      "id": 18,
+      "nama": "Thibaut Courtois",
+      "klub": "Real Madrid",
+      "gambar": "https://via.placeholder.com/150?text=Courtois"
+    },
+    {
+      "id": 19,
+      "nama": "Kepa Arrizabalaga",
+      "klub": "Chelsea",
+      "gambar": "https://via.placeholder.com/150?text=Kepa"
+    },
+    {
+      "id": 20,
+      "nama": "Ederson",
+      "klub": "Manchester City",
+      "gambar": "https://via.placeholder.com/150?text=Ederson"
+    },
+    {
+      "id": 21,
+      "nama": "Alisson Becker",
+      "klub": "Liverpool",
+      "gambar": "https://via.placeholder.com/150?text=Alisson"
+    },
+    {
+      "id": 22,
+      "nama": "Joshua Kimmich",
+      "klub": "Bayern Munich",
+      "gambar": "https://via.placeholder.com/150?text=Kimmich"
+    },
+    {
+      "id": 23,
+      "nama": "Frenkie de Jong",
+      "klub": "Barcelona",
+      "gambar": "https://via.placeholder.com/150?text=De+Jong"
+    },
+    {
+      "id": 24,
+      "nama": "N’Golo Kanté",
+      "klub": "Al-Ittihad",
+      "gambar": "https://via.placeholder.com/150?text=Kante"
+    },
+    {
+      "id": 25,
+      "nama": "Toni Kroos",
+      "klub": "Real Madrid",
+      "gambar": "https://via.placeholder.com/150?text=Kroos"
+    },
+    {
+      "id": 26,
+      "nama": "Luka Modric",
+      "klub": "Real Madrid",
+      "gambar": "https://via.placeholder.com/150?text=Modric"
+    },
+    {
+      "id": 27,
+      "nama": "Andrés Iniesta",
+      "klub": "Vissel Kobe",
+      "gambar": "https://via.placeholder.com/150?text=Iniesta"
+    },
+    {
+      "id": 28,
+      "nama": "Xavi Hernández",
+      "klub": "Al-Sadd",
+      "gambar": "https://via.placeholder.com/150?text=Xavi"
+    },
+    {
+      "id": 29,
+      "nama": "Frank Lampard",
+      "klub": "Retired",
+      "gambar": "https://via.placeholder.com/150?text=Lampard"
+    },
+    {
+      "id": 30,
+      "nama": "Steven Gerrard",
+      "klub": "Retired",
+      "gambar": "https://via.placeholder.com/150?text=Gerrard"
+    }
+  ]
+  
